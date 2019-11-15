@@ -1,4 +1,4 @@
-particlesJS.load('particles-js', '../js/particles.json', function () {});
+
 
 const changeColor = document.getElementById('changeColor');
 const background = document.getElementById('particles-js');
